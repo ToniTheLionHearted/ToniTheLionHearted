@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToniTheLionHearted
 - 👀 I’m interested in ...Emerging technology
-- 🌱 I’m currently learning ...Blockchain development, Solidity, Trussel, Web3Js, Metamask and Smart Contracts
+- 🌱 I’m currently learning ...Blockchain structures, Front End Web Development, Solidity, Metamask and Smart Contracts
 - 💞️ I’m looking to collaborate on ...Dapps, Blockchain, and anything that will build my muscle
 - 📫 How to reach me ...technoblazellc@gmail.com
 
